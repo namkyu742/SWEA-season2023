@@ -19,10 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="problem\d2_1984.cpp" />
+    <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="input.txt" />
+    <ClCompile Include="problem\d2_1966.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

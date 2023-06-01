@@ -15,11 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="problem\d2_1984.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
+    <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="input.txt" />
+    <ClCompile Include="problem\d2_1966.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
