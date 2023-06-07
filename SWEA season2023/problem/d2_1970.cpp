@@ -13,7 +13,6 @@ int main() {
 		int input = 0;
 		cin >> input;
 
-
 		cout << "#" << tc << "\n";
 		cout << input / 50000 << " ";
 		input %= 50000;
